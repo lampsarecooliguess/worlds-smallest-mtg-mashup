@@ -25,7 +25,7 @@ I built my own copy of the World's Smallest Magic: The Gathering Commander deck.
 
 Each printing service may have a slightly different output depending on their print bleed values and amounts. These variables are tweakable at the top of the `run.php` file.
 
-[See this great writeup on reddit bu u/goatducknipples for more information](https://www.reddit.com/r/mpcproxies/comments/e9q1z7/complete_guide_to_image_sizing_for_mpc_or_other/
+[See this great writeup on reddit by u/goatducknipples for more information](https://www.reddit.com/r/mpcproxies/comments/e9q1z7/complete_guide_to_image_sizing_for_mpc_or_other/
 )
 
 Good luck!
